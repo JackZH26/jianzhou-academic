@@ -1,8 +1,82 @@
 baseURL: "https://jackzh26.github.io/jianzhou-academic/"
+title: "Jian Zhou"
+theme: "PaperMod"
 languageCode: en
-title: "Jian Zhou | Independent Researcher"
-theme: "hugo-profile"
 hasCJKLanguage: true
+
+params:
+  env: production
+  description: "Independent Researcher in Mathematical Physics, Number Theory, and Superconductivity"
+  author: "Jian Zhou"
+  
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  
+  profileMode:
+    enabled: true
+    title: "Jian Zhou (周健)"
+    subtitle: |
+      Independent Researcher · Mathematical Physics · Number Theory · Superconductivity
+      
+      By day, Product Director in the gaming industry. By night, exploring the deepest mysteries of physics — from the fine-structure constant to the Riemann Hypothesis.
+      
+      Former Berlin resident (2017–2020). My son Feiman was born there, named after Richard Feynman.
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: "Jian Zhou"
+    buttons:
+      - name: Publications
+        url: /publications/
+      - name: Research
+        url: /research/
+      - name: About
+        url: /about/
+
+  socialIcons:
+    - name: email
+      url: "mailto:jackzhou.sci@gmail.com"
+    - name: github
+      url: "https://github.com/JackZH26"
+    - name: orcid
+      url: "https://orcid.org/0009-0000-3536-9500"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Research
+      url: /research/
+      weight: 2
+    - name: Publications
+      url: /publications/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+    - name: Search
+      url: /search/
+      weight: 5
 
 outputs:
   home:
@@ -10,157 +84,9 @@ outputs:
     - RSS
     - JSON
 
-params:
-  title: "Jian Zhou"
-  description: "Independent researcher in mathematical physics, number theory, and superconductivity"
-  favicon: "/favicon.ico"
-  
-  theme:
-    disableThemeToggle: false
-    defaultTheme: "light"
-
-  hero:
-    enable: true
-    intro: "Hi, I'm"
-    title: "Jian Zhou"
-    subtitle: "Independent Researcher in Mathematical Physics"
-    content: |
-      By day, Product Director in the gaming industry. By night, exploring the deepest mysteries of physics and mathematics — from the fine-structure constant to the Riemann Hypothesis.
-      
-      Former Berlin resident (2017–2020). My son Feiman was born there, named after Richard Feynman.
-    image: /images/profile.jpg
-    bottomImage:
-      enable: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/JackZH26
-        - icon: fas fa-envelope
-          url: mailto:jackzhou.sci@gmail.com
-        - icon: fab fa-orcid
-          url: https://orcid.org/0009-0000-3536-9500
-
-  about:
-    enable: true
-    title: "About Me"
-    image: "/images/profile.jpg"
-    content: |
-      I am an independent researcher based in Shanghai, China. My primary research interests lie at the intersection of **number theory**, **mathematical physics**, and **condensed matter theory**.
-
-      I work as a Product Director and Game Producer at XD.INC, a Hong Kong-listed gaming company, while pursuing fundamental physics research independently. From 2017 to 2020, I lived in Berlin, Germany, where my second child — named Feiman after Richard Feynman — was born.
-
-      My research is driven by a simple question that Feynman himself called "one of the greatest damn mysteries of physics": **can the fine-structure constant α admit an elegant and exact mathematical expression?**
-    skills:
-      enable: true
-      title: "Research Areas"
-      items:
-        - "Fine-Structure Constant Origin (α)"
-        - "Riemann Hypothesis"
-        - "Room-Temperature Superconductivity"
-        - "Bost-Connes Systems"
-        - "Number Theory & L-functions"
-        - "Membrane Models of Particles"
-
-  experience:
-    enable: true
-    title: "Research Timeline"
-    items:
-      - job: "Independent Researcher"
-        company: "Shanghai"
-        date: "2024 - Present"
-        content: |
-          Pursuing fundamental physics research independently. Published 16+ preprints on Figshare covering fine-structure constant, Riemann Hypothesis, and superconductivity theory.
-      
-      - job: "Product Director & Game Producer"
-        company: "XD.INC (HKEX: 02400)"
-        date: "2020 - Present"
-        content: |
-          Leading game development teams for cross-platform UE5 projects. Former Director at Bigpoint Berlin (2017-2020).
-
-  projects:
-    enable: true
-    title: "Research Projects"
-    items:
-      - title: "The Fine-Structure Constant α"
-        content: |
-          α Λ_φ + τ = 1: A three-layer decomposition (geometric + arithmetic + thermodynamic) predicting α⁻¹ = 137.036014 with 0.11 ppm accuracy.
-        links:
-          - icon: fas fa-external-link-alt
-            url: https://doi.org/10.6084/m9.figshare.31866163
-        badges:
-          - "Mathematical Physics"
-          - "Number Theory"
-      
-      - title: "Riemann Hypothesis Program"
-        content: |
-          Strong log-concavity of the Riemann-Jacobi kernel: (log Φ)″(u) ≤ −67.65, quantitative Turán inequalities, and Weil positivity evidence across 168 primes.
-        links:
-          - icon: fas fa-external-link-alt
-            url: https://doi.org/10.6084/m9.figshare.31879441
-        badges:
-          - "Number Theory"
-          - "Analysis"
-      
-      - title: "Room-Temperature Superconductivity"
-        content: |
-          Exploring Bost-Connes system connections to Cooper pairing mechanisms, quantum metric diagnostics, and non-equilibrium pathways beyond BCS theory.
-        badges:
-          - "Condensed Matter"
-          - "Mathematical Physics"
-      
-      - title: "Spherical Membrane Model"
-        content: |
-          Electrons and photons as spherical membranes S²(r). A unified fiber bundle classification: spin 0 (scalar) / spin ½ (spinor) / spin 1 (vector) / spin 2 (tensor) membranes.
-        badges:
-          - "Quantum Physics"
-          - "Foundations"
-
-  achievements:
-    enable: true
-    title: "Publications (Figshare)"
-    items:
-      - title: "α Λ_φ + τ = 1: The Three-Layer Structure of the Fine-Structure Constant"
-        content: "DOI: 10.6084/m9.figshare.31866163"
-        url: https://doi.org/10.6084/m9.figshare.31866163
-      - title: "Strong Log-Concavity of the Riemann-Jacobi Kernel"
-        content: "DOI: 10.6084/m9.figshare.31879441"
-        url: https://doi.org/10.6084/m9.figshare.31879441
-      - title: "Seven Perspectives on the Riemann Hypothesis"
-        content: "DOI: 10.6084/m9.figshare.31817662"
-        url: https://doi.org/10.6084/m9.figshare.31817662
-      - title: "Quantum Metric as Universal Diagnostic for Tc"
-        content: "DOI: 10.6084/m9.figshare.31833382"
-        url: https://doi.org/10.6084/m9.figshare.31833382
-      - title: "The Prime Structure of Electromagnetic Constants"
-        content: "DOI: 10.6084/m9.figshare.31809935"
-        url: https://doi.org/10.6084/m9.figshare.31809935
-      - title: "Mahler Measures and Special Values of L-Functions"
-        content: "DOI: 10.6084/m9.figshare.31811689"
-        url: https://doi.org/10.6084/m9.figshare.31811689
-      - title: "α = φ²/360: A New Conjecture on the Fine-Structure Constant"
-        content: "DOI: 10.6084/m9.figshare.31840012"
-        url: https://doi.org/10.6084/m9.figshare.31840012
-
-  contact:
-    enable: true
-    title: "Contact"
-    content: "I welcome feedback, collaboration, and discussion on any of my research topics."
-    btnName: "Email Me"
-    btnLink: "mailto:jackzhou.sci@gmail.com"
-    formspree:
-      enable: false
-
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: false
-      disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com/JackZH26
-
 markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    noClasses: false
