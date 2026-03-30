@@ -1,4 +1,4 @@
-baseURL: "https://jackzh26.github.io/jianzhou-academic/"
+baseURL: "https://jackz.sh/"
 title: "Jian Zhou"
 theme: "PaperMod"
 languageCode: en
@@ -19,14 +19,15 @@ params:
   
   profileMode:
     enabled: true
-    title: "Jian Zhou (周健)"
-    subtitle: |
+    title: "Jian Zhou (周健) — Jack"
+    subtitle: 
+      You can call me Jack.|
       Independent Researcher · Mathematical Physics · Number Theory · Superconductivity
       
-      By day, Product Director in the gaming industry. By night, exploring the deepest mysteries of physics — from the fine-structure constant to the Riemann Hypothesis.
+      By day, Director of Product in the gaming industry. By night, exploring the deepest mysteries of physics — from the fine-structure constant to the Riemann Hypothesis.
       
-      Former Berlin resident (2017–2020). My son Feiman was born there, named after Richard Feynman.
-    imageUrl: "/images/profile.jpg"
+      Former Berlin resident (2017–2020).
+    imageUrl: "images/profile.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: "Jian Zhou"
@@ -45,6 +46,8 @@ params:
       url: "https://github.com/JackZH26"
     - name: orcid
       url: "https://orcid.org/0009-0000-3536-9500"
+    - name: x
+      url: "https://x.com/jackzhj"
 
   cover:
     hidden: false
@@ -74,9 +77,6 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    - name: Search
-      url: /search/
-      weight: 5
 
 outputs:
   home:

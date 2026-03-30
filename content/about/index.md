@@ -5,15 +5,16 @@ layout: "single"
 
 ## Jian Zhou (周健)
 
+You can call me **Jack**.
+
 I am an independent researcher based in Shanghai, China. My research lies at the intersection of **number theory**, **mathematical physics**, and **condensed matter theory**.
 
 ### Professional Life
 
-By day, I work as **Product Director and Game Producer** at [XD.INC](https://www.xd.com) (HKEX: 02400), a Hong Kong-listed gaming company. I lead cross-platform game development teams working with Unreal Engine 5.
+By day, I work as **Director of Product and Game Producer** at [XD.INC](https://www.xd.com) (HKEX: 02400), a Hong Kong-listed gaming company. I lead cross-platform game development teams working with Unreal Engine 5.
 
 ### Berlin Years (2017–2020)
 
-From 2017 to 2020, I lived in **Berlin, Germany**, serving as Director of Bigpoint's mobile game division. My second child, **Feiman** — named after Richard Feynman — was born in Berlin. Every morning, walking my children to BCS kindergarten, we passed by Humboldt-Universität, a daily reminder of Berlin's remarkable intellectual heritage.
 
 ### Research Motivation
 
@@ -27,3 +28,4 @@ This pursuit has led me from α to the Riemann Hypothesis, from superconductivit
 - **ORCID:** [0009-0000-3536-9500](https://orcid.org/0009-0000-3536-9500)
 - **GitHub:** [JackZH26](https://github.com/JackZH26)
 - **Figshare:** [Jian Zhou](https://figshare.com/authors/Jian_Zhou/18636498)
+- **X (Twitter):** [@jackzhj](https://x.com/jackzhj)
