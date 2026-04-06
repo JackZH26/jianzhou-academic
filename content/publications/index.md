@@ -35,7 +35,6 @@ layout: "single"
 
 - **physics.gen-ph** (General Physics): [Endorse here](https://arxiv.org/auth/endorse?x=BYI34G)
 - **math.NA** (Numerical Analysis): [Endorse here](https://arxiv.org/auth/endorse?x=LLBA8G)
-- ~~**cond-mat.supr-con**~~ ✅ Endorsement obtained!
 
 </div>
 
