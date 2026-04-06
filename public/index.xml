@@ -1,36 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Jian Zhou</title><link>https://jackz.sh/</link><description>Recent content on Jian Zhou</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jackz.sh/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://jackz.sh/publications/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://jackz.sh/publications/</guid><description>&lt;h2 id="research-papers--preprints"&gt;Research Papers &amp;amp; Preprints&lt;/h2&gt;
-&lt;h3 id="fine-structure-constant"&gt;Fine-Structure Constant&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Strong Log-Concavity of the Riemann-Jacobi Kernel: Quantitative Turan Inequalities, Weil Positivity Evidence, and a Program for the Riemann Hypothesis&lt;/strong&gt; (2026-03-28)&lt;br&gt;
-DOI: &lt;a href="https://doi.org/10.6084/m9.figshare.31879441"&gt;10.6084/m9.figshare.31879441&lt;/a&gt; | Views: 0 | Downloads: 0&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;α Λ_φ + τ = 1: The Three-Layer Structure of the Fine-Structure Constant&lt;/strong&gt; (2026-03-27)&lt;br&gt;
-DOI: &lt;a href="https://doi.org/10.6084/m9.figshare.31866163"&gt;10.6084/m9.figshare.31866163&lt;/a&gt; | Views: 0 | Downloads: 0&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;α = cos²(π/5)/90: The Geometric Anatomy of the Fine-Structure Constant&lt;/strong&gt; (2026-03-23)&lt;br&gt;
-DOI: &lt;a href="https://doi.org/10.6084/m9.figshare.31839535"&gt;10.6084/m9.figshare.31839535&lt;/a&gt; | Views: 0 | Downloads: 0&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The Arithmetic Origin of Cosmic Evolution: From the Fine-Structure Constant to the Age of the Universe&lt;/strong&gt; (2026-03-23)&lt;br&gt;
-DOI: &lt;a href="https://doi.org/10.6084/m9.figshare.31839508"&gt;10.6084/m9.figshare.31839508&lt;/a&gt; | Views: 0 | Downloads: 0&lt;/p&gt;</description></item><item><title>About</title><link>https://jackz.sh/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/about/</guid><description>&lt;h2 id="jian-zhou-周健"&gt;Jian Zhou (周健)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Jian Zhou</title><link>https://jackz.sh/</link><description>Recent content on Jian Zhou</description><generator>Hugo</generator><language>en</language><atom:link href="https://jackz.sh/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://jackz.sh/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/about/</guid><description>&lt;h2 id="jian-zhou-周健"&gt;Jian Zhou (周健)&lt;/h2&gt;
 &lt;p&gt;You can call me &lt;strong&gt;Jack&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I am an independent researcher based in Shanghai, China. My research lies at the intersection of &lt;strong&gt;number theory&lt;/strong&gt;, &lt;strong&gt;mathematical physics&lt;/strong&gt;, and &lt;strong&gt;condensed matter theory&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id="professional-life"&gt;Professional Life&lt;/h3&gt;
 &lt;p&gt;By day, I work as &lt;strong&gt;Director of Product and Game Producer&lt;/strong&gt; at &lt;a href="https://www.xd.com"&gt;XD.INC&lt;/a&gt; (HKEX: 02400), a Hong Kong-listed gaming company. I lead cross-platform game development teams working with Unreal Engine 5.&lt;/p&gt;
 &lt;h3 id="berlin-years-20172020"&gt;Berlin Years (2017–2020)&lt;/h3&gt;
 &lt;h3 id="research-motivation"&gt;Research Motivation&lt;/h3&gt;
-&lt;p&gt;The fine-structure constant α has long fascinated me — this mysterious dimensionless number that Feynman himself called &lt;em&gt;&amp;ldquo;one of the greatest damn mysteries of physics.&amp;rdquo;&lt;/em&gt; I have been driven by a simple question: &lt;strong&gt;can this constant admit an elegant and exact mathematical expression?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Research</title><link>https://jackz.sh/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/research/</guid><description>&lt;h2 id="research-directions"&gt;Research Directions&lt;/h2&gt;
+&lt;p&gt;The fine-structure constant α has long fascinated me — this mysterious dimensionless number that Feynman himself called &lt;em&gt;&amp;ldquo;one of the greatest damn mysteries of physics.&amp;rdquo;&lt;/em&gt; I have been driven by a simple question: &lt;strong&gt;can this constant admit an elegant and exact mathematical expression?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Publications</title><link>https://jackz.sh/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/publications/</guid><description>&lt;style&gt;
+.tab-container { margin: 1.5em 0; }
+.tab-buttons { display: flex; gap: 0; border-bottom: 2px solid #ddd; margin-bottom: 1.5em; }
+.tab-btn { padding: 0.6em 1.5em; cursor: pointer; border: none; background: none; font-size: 1em; font-weight: 600; color: #666; border-bottom: 3px solid transparent; transition: all 0.2s; }
+.tab-btn:hover { color: #333; }
+.tab-btn.active { color: #2563eb; border-bottom-color: #2563eb; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+.dark .tab-btn { color: #999; }
+.dark .tab-btn.active { color: #60a5fa; border-bottom-color: #60a5fa; }
+.dark .tab-buttons { border-bottom-color: #444; }
+&lt;/style&gt;
+&lt;div class="tab-container"&gt;
+&lt;div class="tab-buttons"&gt;
+&lt;button class="tab-btn" onclick="switchTab('arxiv')"&gt;📄 arXiv&lt;/button&gt;
+&lt;button class="tab-btn active" onclick="switchTab('figshare')"&gt;📊 Figshare&lt;/button&gt;
+&lt;/div&gt;
+&lt;div id="tab-arxiv" class="tab-content"&gt;
+&lt;h2 id="arxiv-preprints"&gt;arXiv Preprints&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators&lt;/strong&gt;
+arXiv: &lt;a href="https://arxiv.org/abs/2603.27613"&gt;2603.27613&lt;/a&gt; | cs.MS (Mathematical Software)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;More papers coming soon. Endorsement obtained for cs.MS; physics and math submissions pending.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Research</title><link>https://jackz.sh/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/research/</guid><description>&lt;h2 id="research-directions"&gt;Research Directions&lt;/h2&gt;
 &lt;h3 id="1-the-fine-structure-constant-α"&gt;1. The Fine-Structure Constant α&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Central Question:&lt;/strong&gt; Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Result:&lt;/strong&gt; α Λ_φ + τ = 1, where Λ_φ = 360/φ² − ln φ and τ = 4k_B T_CMB / E_R, predicting α⁻¹ = 137.036014 with 0.11 ppm accuracy.&lt;/p&gt;
-&lt;p&gt;The three-layer decomposition reveals:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Result:&lt;/strong&gt; A four-layer arithmetic decomposition predicts α⁻¹ = 137.035999046, agreeing with CODATA 2022 to &lt;strong&gt;0.009 ppm&lt;/strong&gt; — 9 parts per billion.&lt;/p&gt;
+&lt;p&gt;The four-layer structure:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Geometric layer:&lt;/strong&gt; 360/φ² (golden angle, circle optimization)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Arithmetic layer:&lt;/strong&gt; −ln φ (Dirichlet regulator of ℚ(√5))&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Thermodynamic layer:&lt;/strong&gt; τ (CMB thermal energy)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer 1 — Geometric:&lt;/strong&gt; 360/φ² (golden angle, circle optimization)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer 2 — Arithmetic:&lt;/strong&gt; −ln φ (Dirichlet regulator of ℚ(√5))&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer 3 — Thermodynamic:&lt;/strong&gt; τ = 4k_B T_CMB / E_R (CMB thermal energy)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer 4 — Higher-order:&lt;/strong&gt; Bernoulli generating functions / Seeley–DeWitt heat kernel corrections&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-the-riemann-hypothesis"&gt;2. The Riemann Hypothesis&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Approach:&lt;/strong&gt; Bost-Connes system over ℚ(√5) with golden unitarity.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;φ is uniquely selected by the Bose–Einstein self-reference equation n_BE(ln x) = x, providing a first-principles derivation from quantum statistical mechanics.&lt;/p&gt;</description></item></channel></rss>
