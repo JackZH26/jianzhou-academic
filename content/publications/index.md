@@ -26,7 +26,7 @@ layout: "single"
 
 ## arXiv Preprints
 
-1. **Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost–Connes System**
+1. **Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result**
    arXiv: [2604.04719](https://arxiv.org/abs/2604.04719) | cond-mat.supr-con (Superconductivity)
 
 2. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
