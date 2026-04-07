@@ -26,10 +26,11 @@ layout: "single"
 
 ## arXiv Preprints
 
-1. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
-   arXiv: [2603.27613](https://arxiv.org/abs/2603.27613) | cs.MS (Mathematical Software)
+1. **Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost–Connes System**
+   arXiv: [2604.04719](https://arxiv.org/abs/2604.04719) | cond-mat.supr-con (Superconductivity)
 
-*More papers coming soon. Endorsement obtained for cs.MS; physics and math submissions pending.*
+2. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
+   arXiv: [2603.27613](https://arxiv.org/abs/2603.27613) | cs.MS (Mathematical Software)
 
 **🙏 Seeking arXiv Endorsement — If you or someone you know can help, please use the links below. Thank you!**
 
