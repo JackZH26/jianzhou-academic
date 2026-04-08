@@ -26,10 +26,13 @@ layout: "single"
 
 ## arXiv Preprints
 
-1. **Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result**
+1. **Band-Basis Decomposition of Superfluid Weight in Magic-Angle Twisted Bilayer Graphene: Quantifying Geometric and Conventional Contributions**
+   arXiv: [2604.05994](https://arxiv.org/abs/2604.05994) | cond-mat.supr-con (Superconductivity)
+
+2. **Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result**
    arXiv: [2604.04719](https://arxiv.org/abs/2604.04719) | cond-mat.supr-con (Superconductivity)
 
-2. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
+3. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
    arXiv: [2603.27613](https://arxiv.org/abs/2603.27613) | cs.MS (Mathematical Software)
 
 **🙏 Seeking arXiv Endorsement — If you or someone you know can help, please use the links below. Thank you!**
