@@ -35,6 +35,9 @@ layout: "single"
 3. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
    arXiv: [2603.27613](https://arxiv.org/abs/2603.27613) | cs.MS (Mathematical Software)
 
+4. **An Architectural Framework for Formalizing Extended Riemann Hypotheses in Lean 4: The Case of ℚ(√5)**
+   arXiv: submit/7469470 (pending) | cs.MS (Mathematical Software), cs.LO, math.NT
+
 **🙏 Seeking arXiv Endorsement — If you or someone you know can help, please use the links below. Thank you!**
 
 - **physics.gen-ph** (General Physics): [Endorse here](https://arxiv.org/auth/endorse?x=BYI34G)
