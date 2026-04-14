@@ -7,21 +7,26 @@ layout: "single"
 
 ### 1. The Fine-Structure Constant α
 
-**Central Question:** Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression?
+**Central Question:** Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression rooted in number theory?
 
-**Key Result:** A four-layer arithmetic decomposition predicts α⁻¹ = 137.035999046, agreeing with CODATA 2022 to **0.009 ppm** — 9 parts per billion.
+**Key Result (2026):** The three-term formula
 
-The four-layer structure:
-- **Layer 1 — Geometric:** 360/φ² (golden angle, circle optimization)
-- **Layer 2 — Arithmetic:** −ln φ (Dirichlet regulator of ℚ(√5))
-- **Layer 3 — Thermodynamic:** τ = 4k_B T_CMB / E_R (CMB thermal energy)
-- **Layer 4 — Higher-order:** Bernoulli generating functions / Seeley–DeWitt heat kernel corrections
+α⁻¹ = 360/φ² − 2/φ³ + 1/(3φ)⁵ = 137.035999165...
 
-φ is uniquely selected by the Bose–Einstein self-reference equation n_BE(ln x) = x, providing a first-principles derivation from quantum statistical mechanics.
+agrees with CODATA 2022 to **0.58σ** — within experimental uncertainty. All three coefficients are intrinsic arithmetic invariants of the real quadratic field K = ℚ(√5).
 
-📄 **Preprints:** [Four-Layer Structure](https://doi.org/10.6084/m9.figshare.31891384) | [Three-Layer Version](https://doi.org/10.6084/m9.figshare.31866163) | [α = φ²/360 Conjecture](https://doi.org/10.6084/m9.figshare.31840012)
+The arithmetic framework (Bost-Connes spectral theory):
+- **Term 1 — Spectral invariant:** 360/φ² = 3!/ζ_K(−3) · ε_K⁻², where ζ_K(−3) = 1/60 = 1/|A₅|
+- **Term 2 — Unit correction:** −2/φ³ = −w_K · ε_K⁻³ (torsion of O_K^×)
+- **Term 3 — Prime correction:** 1/(3φ)⁵ = [Tr(ε_K²) · ε_K]^{−d_K} (resonant inert prime)
 
-⚙️ **Status:** Under review at *International Journal of Theoretical Physics* (IJTP)
+φ is uniquely selected by the Bose–Einstein self-reference equation n_BE(ln x) = x. The formula has **zero free parameters** — all quantities are determined by the arithmetic of ℚ(√5).
+
+📄 **Papers:**
+- [Spectral Invariants of BC_K and Arithmetic Expansion of α⁻¹](https://doi.org/10.6084/m9.figshare.31991460) — *submitted to Experimental Mathematics*
+- [On the Arithmetic of ℚ(√5) and the Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31967736) — *submitted to Ramanujan Journal (under appeal)*
+
+⚙️ **Status:** Two papers submitted; active research on rigorous derivation of spectral-action framework
 
 ### 2. The Riemann Hypothesis
 
