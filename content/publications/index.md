@@ -51,12 +51,12 @@ layout: "single"
     <li>
       <a href="https://figshare.com/articles/preprint/Spectral_Invariants_of_the_Bost-Connes_System_over_Q_sqrt5_and_an_Arithmetic_Expansion_of_the_Inverse_Fine-Structure_Constant/31991460" target="_blank"><strong>Spectral Invariants of the Bost-Connes System over Q(sqrt5) and an Arithmetic Expansion of the Inverse Fine-Structure Constant</strong></a><br>
       <span class="pub-meta">Published: 2026-04-13 | DOI: 10.6084/m9.figshare.31991460</span><br>
-      <span class="pub-stats">📊 14 views | 📥 1 downloads</span>
+      <span class="pub-stats">📊 18 views | 📥 1 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/On_the_Arithmetic_of_Q_sqrt5_and_the_Fine-Structure_Constant/31967736" target="_blank"><strong>On the Arithmetic of Q(sqrt5) and the Fine-Structure Constant</strong></a><br>
       <span class="pub-meta">Published: 2026-04-08 | DOI: 10.6084/m9.figshare.31967736</span><br>
-      <span class="pub-stats">📊 21 views | 📥 2 downloads</span>
+      <span class="pub-stats">📊 23 views | 📥 2 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/The_Four-Layer_Arithmetic_Structure_of_the_Fine-Structure_Constant/31891384" target="_blank"><strong>The Four-Layer Arithmetic Structure of the Fine-Structure Constant</strong></a><br>
@@ -66,17 +66,17 @@ layout: "single"
     <li>
       <a href="https://figshare.com/articles/preprint/__1_The_Three-Layer_Structure_of_the_Fine-Structure_Constant/31866163" target="_blank"><strong>α Λ_φ + τ = 1: The Three-Layer Structure of the Fine-Structure Constant</strong></a><br>
       <span class="pub-meta">Published: 2026-03-27 | DOI: 10.6084/m9.figshare.31866163</span><br>
-      <span class="pub-stats">📊 61 views | 📥 11 downloads</span>
+      <span class="pub-stats">📊 62 views | 📥 14 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/_360_A_New_Conjecture_on_the_Fine-Structure_Constant/31840012" target="_blank"><strong>α = φ²/360: A New Conjecture on the Fine-Structure Constant</strong></a><br>
       <span class="pub-meta">Published: 2026-03-24 | DOI: 10.6084/m9.figshare.31840012</span><br>
-      <span class="pub-stats">📊 52 views | 📥 29 downloads</span>
+      <span class="pub-stats">📊 53 views | 📥 31 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/_cos_5_90_The_Geometric_Anatomy_of_the_Fine-Structure_Constant/31839535" target="_blank"><strong>α = cos²(π/5)/90: The Geometric Anatomy of the Fine-Structure Constant</strong></a><br>
       <span class="pub-meta">Published: 2026-03-23 | DOI: 10.6084/m9.figshare.31839535</span><br>
-      <span class="pub-stats">📊 33 views | 📥 10 downloads</span>
+      <span class="pub-stats">📊 35 views | 📥 11 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31839517" target="_blank"><strong>Fine-Structure Constant</strong></a><br>
@@ -94,14 +94,29 @@ layout: "single"
       <span class="pub-stats">📊 19 views | 📥 2 downloads</span>
     </li>
     <li>
-      <a href="https://figshare.com/articles/preprint/A_Zeta-Function_Reformulation_of_Wyler_s_Geometric_Formula_for_the_Fine-Structure_Constant/31771282" target="_blank"><strong>A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant</strong></a><br>
-      <span class="pub-meta">Published: 2026-03-17 | DOI: 10.6084/m9.figshare.31771282</span><br>
-      <span class="pub-stats">📊 49 views | 📥 123 downloads</span>
+      <a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31833382" target="_blank"><strong>Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost-Connes System</strong></a><br>
+      <span class="pub-meta">Published: 2026-03-23 | DOI: 10.6084/m9.figshare.31833382</span><br>
+      <span class="pub-stats">📊 28 views | 📥 23 downloads</span>
     </li>
     <li>
-      <a href="https://figshare.com/articles/preprint/The_Arithmetic_of_Light_From_the_Riemann_Zeta_Function_to_a_Universal_Expression_of_Electromagnetic_Interaction/31744981" target="_blank"><strong>The Arithmetic of Light: From the Riemann Zeta Function to a Universal Expression of Electromagnetic Interaction</strong></a><br>
-      <span class="pub-meta">Published: 2026-03-16 | DOI: 10.6084/m9.figshare.31744981</span><br>
-      <span class="pub-stats">📊 30 views | 📥 8 downloads</span>
+      <a href="https://figshare.com/articles/preprint/A_Zeta-Function_Reformulation_of_Wyler_s_Geometric_Formula_for_the_Fine-Structure_Constant/31771282" target="_blank"><strong>A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant</strong></a><br>
+      <span class="pub-meta">Published: 2026-03-17 | DOI: 10.6084/m9.figshare.31771282</span><br>
+      <span class="pub-stats">📊 51 views | 📥 128 downloads</span>
+    </li>
+    <li>
+      <a href="https://figshare.com/articles/preprint/_/32010219" target="_blank"><strong>The Specialization Gap in Schanuel's Conjecture: Obstructions from the Bost-Connes System and the EML Hierarchy</strong></a><br>
+      <span class="pub-meta">Published: N/A | DOI: N/A</span><br>
+      <span class="pub-stats">📊 0 views | 📥 0 downloads</span>
+    </li>
+    <li>
+      <a href="https://figshare.com/articles/preprint/_/32010198" target="_blank"><strong>The Specialization Gap in Schanuel's Conjecture: Obstructions from the Bost-Connes System and the EML Hierarchy</strong></a><br>
+      <span class="pub-meta">Published: N/A | DOI: N/A</span><br>
+      <span class="pub-stats">📊 0 views | 📥 0 downloads</span>
+    </li>
+    <li>
+      <a href="https://figshare.com/articles/preprint/_/32010189" target="_blank"><strong>The Specialization Gap in Schanuel's Conjecture: Obstructions from the Bost-Connes System and the EML Hierarchy</strong></a><br>
+      <span class="pub-meta">Published: N/A | DOI: N/A</span><br>
+      <span class="pub-stats">📊 0 views | 📥 0 downloads</span>
     </li>
   </ul>
   <h3>Riemann Hypothesis</h3>
@@ -109,17 +124,22 @@ layout: "single"
     <li>
       <a href="https://figshare.com/articles/preprint/An_Architectural_Framework_for_Formalizing_the_Dedekind_Zeta_Factorization_of_Q_sqrt_5_in_Lean_4/31981728" target="_blank"><strong>An Architectural Framework for Formalizing Extended Riemann Hypotheses in Lean 4: The Case of ℚ(√5)</strong></a><br>
       <span class="pub-meta">Published: 2026-04-12 | DOI: 10.6084/m9.figshare.31981728</span><br>
-      <span class="pub-stats">📊 30 views | 📥 3 downloads</span>
+      <span class="pub-stats">📊 31 views | 📥 3 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/Strong_Log-Concavity_of_the_Riemann-Jacobi_Kernel_Quantitative_Turan_Inequalities_Weil_Positivity_Evidence_and_a_Program_for_the_Riemann_Hypothesis/31879441" target="_blank"><strong>Strong Log-Concavity of the Riemann-Jacobi Kernel: Quantitative Turan Inequalities, Weil Positivity Evidence, and a Program for the Riemann Hypothesis</strong></a><br>
       <span class="pub-meta">Published: 2026-03-28 | DOI: 10.6084/m9.figshare.31879441</span><br>
-      <span class="pub-stats">📊 98 views | 📥 41 downloads</span>
+      <span class="pub-stats">📊 101 views | 📥 62 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/dataset/Seven_Perspectives_on_the_Riemann_Hypothesis_A_Unified_Computational_Exploration_with_10_000_Zeros/31817662" target="_blank"><strong>Seven Perspectives on the Riemann Hypothesis: A Unified Computational Exploration with 10,000 Zeros</strong></a><br>
       <span class="pub-meta">Published: 2026-03-20 | DOI: 10.6084/m9.figshare.31817662</span><br>
-      <span class="pub-stats">📊 56 views | 📥 7 downloads</span>
+      <span class="pub-stats">📊 59 views | 📥 7 downloads</span>
+    </li>
+    <li>
+      <a href="https://figshare.com/articles/preprint/The_Arithmetic_of_Light_From_the_Riemann_Zeta_Function_to_a_Universal_Expression_of_Electromagnetic_Interaction/31744981" target="_blank"><strong>The Arithmetic of Light: From the Riemann Zeta Function to a Universal Expression of Electromagnetic Interaction</strong></a><br>
+      <span class="pub-meta">Published: 2026-03-16 | DOI: 10.6084/m9.figshare.31744981</span><br>
+      <span class="pub-stats">📊 31 views | 📥 9 downloads</span>
     </li>
   </ul>
   <h3>Superconductivity</h3>
@@ -130,27 +150,17 @@ layout: "single"
       <span class="pub-stats">📊 19 views | 📥 4 downloads</span>
     </li>
     <li>
-      <a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31833382" target="_blank"><strong>Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost-Connes System</strong></a><br>
-      <span class="pub-meta">Published: 2026-03-23 | DOI: 10.6084/m9.figshare.31833382</span><br>
-      <span class="pub-stats">📊 28 views | 📥 23 downloads</span>
-    </li>
-    <li>
       <a href="https://figshare.com/articles/preprint/Band-basis_decomposition_of_superfluid_weight_in_magic-angle_twisted_bilayer_graphene_Quantifying_geometric_and_conventional_contributions/31820038" target="_blank"><strong>Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions</strong></a><br>
       <span class="pub-meta">Published: 2026-03-20 | DOI: 10.6084/m9.figshare.31820038</span><br>
-      <span class="pub-stats">📊 42 views | 📥 3 downloads</span>
+      <span class="pub-stats">📊 43 views | 📥 5 downloads</span>
     </li>
   </ul>
   <h3>Number Theory</h3>
   <ul>
     <li>
-      <a href="https://figshare.com/articles/preprint/_/32010219" target="_blank"><strong>The Specialization Gap in Schanuel's Conjecture: Obstructions from the Bost-Connes System and the EML Hierarchy</strong></a><br>
-      <span class="pub-meta">Published: N/A | DOI: N/A</span><br>
-      <span class="pub-stats">📊 0 views | 📥 0 downloads</span>
-    </li>
-    <li>
       <a href="https://figshare.com/articles/preprint/Mahler_Measures_of_the_Bertin-Touafek_Family_and_Special_Values_of_L-Functions_New_Conjectures_from_a_Systematic_Numerical_Survey/31811689" target="_blank"><strong>Mahler Measures of the Bertin-Touafek Family and Special Values of L-Functions: New Conjectures from a Systematic Numerical Survey</strong></a><br>
       <span class="pub-meta">Published: 2026-03-19 | DOI: 10.6084/m9.figshare.31811689</span><br>
-      <span class="pub-stats">📊 59 views | 📥 96 downloads</span>
+      <span class="pub-stats">📊 62 views | 📥 99 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/The_Prime_Structure_of_Electromagnetic_Constants/31758985" target="_blank"><strong>The Prime Structure of Electromagnetic Constants</strong></a><br>
@@ -163,7 +173,7 @@ layout: "single"
     <li>
       <a href="https://figshare.com/articles/preprint/Cusp_Form_Dimensions_Lattice_Uniqueness_and_LP_Sharpness_for_Sphere_Packing_in_Dimensions_8_and_24/31941216" target="_blank"><strong>Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24</strong></a><br>
       <span class="pub-meta">Published: 2026-04-06 | DOI: 10.6084/m9.figshare.31941216</span><br>
-      <span class="pub-stats">📊 21 views | 📥 2 downloads</span>
+      <span class="pub-stats">📊 22 views | 📥 2 downloads</span>
     </li>
     <li>
       <a href="https://figshare.com/articles/preprint/Stokes_Multipliers_of_x_2M_Anharmonic_Oscillators_Exact_Results_for_M_2--11/31796332" target="_blank"><strong>High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators</strong></a><br>
@@ -186,12 +196,12 @@ layout: "single"
     <li>
       <a href="https://figshare.com/articles/preprint/Electrons_as_Spherical_Membranes_A_Unified_Geometric_Framework_for_Bound_and_Free_States/31898347" target="_blank"><strong>Electrons as Spherical Membranes: A Unified Geometric Framework for Bound and Free States</strong></a><br>
       <span class="pub-meta">Published: 2026-03-31 | DOI: 10.6084/m9.figshare.31898347</span><br>
-      <span class="pub-stats">📊 57 views | 📥 11 downloads</span>
+      <span class="pub-stats">📊 58 views | 📥 12 downloads</span>
     </li>
   </ul>
 </div></div>
 
-*Last updated: 2026-04-15 22:01:24 (UTC)*
+*Last updated: 2026-04-17 06:02:39 (UTC)*
 
 <script>
 function switchTab(tab) {
