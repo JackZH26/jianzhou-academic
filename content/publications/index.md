@@ -45,7 +45,7 @@ layout: "single"
 
 </div>
 
-<div id="tab-figshare" class="tab-content">
+<div id="tab-figshare" class="tab-content active">
   <h3 class="category-title">Fine-Structure Constant</h3>
   <ul class="pub-list">
     <li class="pub-item">
