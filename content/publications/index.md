@@ -16,24 +16,6 @@ layout: "single"
 .dark .tab-buttons { border-bottom-color: #444; }
 </style>
 
-<div class="tab-container">
-<div class="tab-buttons">
-  <button class="tab-btn" onclick="switchTab('arxiv')">📄 arXiv</button>
-  <button class="tab-btn active" onclick="switchTab('figshare')">📊 Figshare</button>
-</div>
-
-<div id="tab-arxiv" class="tab-content">
-
-## arXiv Preprints
-
-1. **Band-Basis Decomposition of Superfluid Weight in Magic-Angle Twisted Bilayer Graphene: Quantifying Geometric and Conventional Contributions**
-   arXiv: [2604.05994](https://arxiv.org/abs/2604.05994) | cond-mat.supr-con (Superconductivity)
-
-2. **Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result**
-   arXiv: [2604.04719](https://arxiv.org/abs/2604.04719) | cond-mat.supr-con (Superconductivity)
-
-</div>
-
 <div id="tab-figshare" class="tab-content active">
   <h3 class="category-title">The Fine-Structure Constant α</h3>
   <ul class="pub-list">

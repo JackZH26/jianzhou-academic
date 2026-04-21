@@ -17,17 +17,130 @@
 .dark .tab-btn.active { color: #60a5fa; border-bottom-color: #60a5fa; }
 .dark .tab-buttons { border-bottom-color: #444; }
 &lt;/style&gt;
-&lt;div class="tab-container"&gt;
-&lt;div class="tab-buttons"&gt;
-&lt;button class="tab-btn" onclick="switchTab('arxiv')"&gt;📄 arXiv&lt;/button&gt;
-&lt;button class="tab-btn active" onclick="switchTab('figshare')"&gt;📊 Figshare&lt;/button&gt;
+&lt;div id="tab-figshare" class="tab-content active"&gt;
+&lt;h3 class="category-title"&gt;The Fine-Structure Constant α&lt;/h3&gt;
+&lt;ul class="pub-list"&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Spectral_Invariants_of_the_Bost-Connes_System_over_Q_sqrt5_and_an_Arithmetic_Expansion_of_the_Inverse_Fine-Structure_Constant/31991460" target="_blank"&gt;Spectral Invariants of the Bost-Connes System over Q(sqrt5) and an Arithmetic Framework for the Three-Term Expansion of the Inverse Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-04-17&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31991460&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 27 | 📥 2&lt;/span&gt;
 &lt;/div&gt;
-&lt;div id="tab-arxiv" class="tab-content"&gt;
-&lt;h2 id="arxiv-preprints"&gt;arXiv Preprints&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Band-Basis Decomposition of Superfluid Weight in Magic-Angle Twisted Bilayer Graphene: Quantifying Geometric and Conventional Contributions&lt;/strong&gt;
-arXiv: &lt;a href="https://arxiv.org/abs/2604.05994"&gt;2604.05994&lt;/a&gt; | cond-mat.supr-con (Superconductivity)&lt;/p&gt;</description></item><item><title>Research</title><link>https://jackz.sh/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/research/</guid><description>&lt;h2 id="research-directions"&gt;Research Directions&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/On_the_Arithmetic_of_Q_sqrt5_and_the_Fine-Structure_Constant/31967736" target="_blank"&gt;On the Arithmetic of Q(sqrt5) and the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-04-08&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31967736&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 25 | 📥 2&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/The_Four-Layer_Arithmetic_Structure_of_the_Fine-Structure_Constant/31891384" target="_blank"&gt;The Four-Layer Arithmetic Structure of the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-04-04&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31891384&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 46 | 📥 5&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/__1_The_Three-Layer_Structure_of_the_Fine-Structure_Constant/31866163" target="_blank"&gt;α Λ_φ + τ = 1: The Three-Layer Structure of the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-27&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31866163&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 68 | 📥 21&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/_360_A_New_Conjecture_on_the_Fine-Structure_Constant/31840012" target="_blank"&gt;α = φ²/360: A New Conjecture on the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-24&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31840012&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 57 | 📥 33&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/_cos_5_90_The_Geometric_Anatomy_of_the_Fine-Structure_Constant/31839535" target="_blank"&gt;α = cos²(π/5)/90: The Geometric Anatomy of the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-23&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31839535&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 38 | 📥 12&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/_360_The_Universal_Formula_from_Quarks_to_Galaxies/31839511" target="_blank"&gt;α⁻¹ = 360/φ²: The Universal Formula from Quarks to Galaxies&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-23&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31839511&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 40 | 📥 4&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/A_Zeta-Function_Reformulation_of_Wyler_s_Geometric_Formula_for_the_Fine-Structure_Constant/31771282" target="_blank"&gt;A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-17&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31771282&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 56 | 📥 151&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="category-title"&gt;Spherical Membrane Model of Particles&lt;/h3&gt;
+&lt;ul class="pub-list"&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Gap_Symmetry_Is_Orbital_Electron_Membrane_Resonance_Picture_and_Validation_in_Multiorbital_Superconductors/32049069" target="_blank"&gt;Gap Symmetry Is Orbital: Electron Membrane Resonance Picture and Validation in Multiorbital Superconductors&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-04-20&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.32049069&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 17 | 📥 2&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Photons_as_Expanding_Spherical_Membranes_A_Geometric_Reinterpretation_of_Light_from_Newton_s_Prism_to_Einstein_s_Eclipse/31899475" target="_blank"&gt;Photons as Expanding Spherical Membranes: A Geometric Reinterpretation of Light from Newton's Prism to Einstein's Eclipse&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-31&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31899475&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 44 | 📥 1&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Electrons_as_Spherical_Membranes_A_Unified_Geometric_Framework_for_Bound_and_Free_States/31898347" target="_blank"&gt;Electrons as Spherical Membranes: A Unified Geometric Framework for Bound and Free States&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-31&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31898347&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 61 | 📥 13&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="category-title"&gt;Room-Temperature Superconductivity&lt;/h3&gt;
+&lt;ul class="pub-list"&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Two-Channel_Allen-Dynes_Framework_for_Superconducting_Critical_Temperatures_Blind_Predictions_Across_Five_Orders_of_Magnitude_and_a_Quantum-Metric_No-Go_Result/31889344" target="_blank"&gt;Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-30&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31889344&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 19 | 📥 4&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31833382" target="_blank"&gt;Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost-Connes System&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-23&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31833382&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 30 | 📥 25&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="pub-item"&gt;
+&lt;div class="pub-title"&gt;&lt;a href="https://figshare.com/articles/preprint/Band-basis_decomposition_of_superfluid_weight_in_magic-angle_twisted_bilayer_graphene_Quantifying_geometric_and_conventional_contributions/31820038" target="_blank"&gt;Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="pub-meta"&gt;
+&lt;span class="pub-date"&gt;2026-03-20&lt;/span&gt; |
+&lt;span class="pub-doi"&gt;DOI: 10.6084/m9.figshare.31820038&lt;/span&gt; |
+&lt;span class="pub-stats"&gt;👁️ 51 | 📥 7&lt;/span&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Last updated: 2026-04-21&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Research</title><link>https://jackz.sh/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/research/</guid><description>&lt;h2 id="research-directions"&gt;Research Directions&lt;/h2&gt;
 &lt;h3 id="1-the-fine-structure-constant-α"&gt;1. The Fine-Structure Constant α&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Central Question:&lt;/strong&gt; Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression rooted in number theory?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key Result (2026):&lt;/strong&gt; The three-term formula&lt;/p&gt;
