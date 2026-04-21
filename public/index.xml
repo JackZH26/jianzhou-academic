@@ -29,13 +29,8 @@
 &lt;p&gt;&lt;strong&gt;Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24&lt;/strong&gt;
 arXiv: &lt;a href="https://arxiv.org/abs/2604.10914"&gt;2604.10914&lt;/a&gt; | math.CO, math.NT (Combinatorics / Number Theory)&lt;/p&gt;</description></item><item><title>Research</title><link>https://jackz.sh/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jackz.sh/research/</guid><description>&lt;h2 id="research-directions"&gt;Research Directions&lt;/h2&gt;
 &lt;h3 id="1-the-fine-structure-constant-α"&gt;1. The Fine-Structure Constant α&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Central Question:&lt;/strong&gt; Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Result:&lt;/strong&gt; A four-layer arithmetic decomposition predicts α⁻¹ = 137.035999046, agreeing with CODATA 2022 to &lt;strong&gt;0.009 ppm&lt;/strong&gt; — 9 parts per billion.&lt;/p&gt;
-&lt;p&gt;The four-layer structure:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Layer 1 — Geometric:&lt;/strong&gt; 360/φ² (golden angle, circle optimization)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Layer 2 — Arithmetic:&lt;/strong&gt; −ln φ (Dirichlet regulator of ℚ(√5))&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Layer 3 — Thermodynamic:&lt;/strong&gt; τ = 4k_B T_CMB / E_R (CMB thermal energy)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Layer 4 — Higher-order:&lt;/strong&gt; Bernoulli generating functions / Seeley–DeWitt heat kernel corrections&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;φ is uniquely selected by the Bose–Einstein self-reference equation n_BE(ln x) = x, providing a first-principles derivation from quantum statistical mechanics.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Central Question:&lt;/strong&gt; Can the fine-structure constant α ≈ 1/137.036 admit an elegant and exact mathematical expression rooted in number theory?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Result (2026):&lt;/strong&gt; The three-term formula&lt;/p&gt;
+&lt;p&gt;α⁻¹ = 360/φ² − 2/φ³ + 1/(3φ)⁵ = 137.035999165&amp;hellip;&lt;/p&gt;
+&lt;p&gt;agrees with CODATA 2022 to &lt;strong&gt;0.58σ&lt;/strong&gt; — within experimental uncertainty. All three coefficients are intrinsic arithmetic invariants of the real quadratic field K = ℚ(√5).&lt;/p&gt;
+&lt;p&gt;The arithmetic framework (Bost-Connes spectral theory):&lt;/p&gt;</description></item></channel></rss>

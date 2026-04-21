@@ -36,6 +36,8 @@ params:
         url: /publications/
       - name: Research
         url: /research/
+      - name: JZIS
+        url: https://jzis.org
       - name: About
         url: /about/
 
@@ -74,9 +76,12 @@ menu:
     - name: Publications
       url: /publications/
       weight: 3
+    - name: JZIS
+      url: https://jzis.org
+      weight: 4
     - name: About
       url: /about/
-      weight: 4
+      weight: 5
 
 outputs:
   home:
