@@ -28,22 +28,7 @@ The arithmetic framework (Bost-Connes spectral theory):
 
 ⚙️ **Status:** Two papers submitted; active research on rigorous derivation of spectral-action framework
 
-### 2. The Riemann Hypothesis
-
-**Approach:** Bost-Connes system over ℚ(√5) with golden unitarity.
-
-**Key Results:**
-- Strong log-concavity bound: (log Φ)″(u) ≤ −67.65 for all u ≥ 0 — new quantitative bound not previously in the literature
-- Quantitative Turán inequalities derived from this bound
-- Weil positivity evidence across 168 primes (tail bounds < 10⁻¹¹⁰)
-- Uniform Jensen hyperbolicity and Gaussian growth control
-- Research program with explicit gap identification
-
-📄 **Preprints:** [Strong Log-Concavity](https://doi.org/10.6084/m9.figshare.31879441) | [Seven Perspectives on RH](https://doi.org/10.6084/m9.figshare.31817662)
-
-⚙️ **Status:** Under review at *Potential Analysis* (Q1) and *Experimental Mathematics*. First arXiv paper published: [arXiv:2603.27613](https://arxiv.org/abs/2603.27613)
-
-### 3. Spherical Membrane Model of Particles
+### 2. Spherical Membrane Model of Particles
 
 **Idea:** All quantum fields are vibration modes of S², distinguished by fiber bundle type.
 
@@ -59,7 +44,7 @@ The arithmetic framework (Bost-Connes spectral theory):
 
 ⚙️ **Status:** Electron membrane paper submitted to *Foundations of Physics*
 
-### 4. Room-Temperature Superconductivity
+### 3. Room-Temperature Superconductivity
 
 **Approach:** Two-channel Allen-Dynes framework combining phonon and spin-fluctuation coupling with quantum-metric superfluid stiffness.
 
@@ -72,14 +57,6 @@ The arithmetic framework (Bost-Connes spectral theory):
 
 ⚙️ **Status:** Under review at *Superconductor Science and Technology*
 
-### 5. Number Theory & Mathematical Physics
-
-Additional contributions in number theory and mathematical physics:
-
-- **Mahler Measures:** New conjectures on special values of L-functions ([DOI](https://doi.org/10.6084/m9.figshare.31811689))
-- **Stokes Multipliers:** Exact closed-form results via PSLQ algorithm ([arXiv:2603.27613](https://arxiv.org/abs/2603.27613))
-- **Lattice Green Functions:** Domb number decomposition in d ≥ 4 ([DOI](https://doi.org/10.6084/m9.figshare.31815690))
-
 ---
 
-📊 **Overall:** 20 preprints on Figshare, 1 on arXiv, 400+ views, 330+ downloads. Papers under review at IJTP, Foundations of Physics, Potential Analysis, and Experimental Mathematics.
+📊 **Overall:** 20 preprints on Figshare, 4 on arXiv, 600+ views, 450+ downloads.
