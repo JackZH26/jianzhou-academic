@@ -16,6 +16,35 @@ layout: "single"
 .dark .tab-buttons { border-bottom-color: #444; }
 </style>
 
+<div class="tab-container">
+<div class="tab-buttons">
+  <button class="tab-btn" onclick="switchTab('arxiv')">📄 arXiv</button>
+  <button class="tab-btn active" onclick="switchTab('figshare')">📊 Figshare</button>
+</div>
+
+<div id="tab-arxiv" class="tab-content">
+
+## arXiv Preprints
+
+1. **Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**
+   arXiv: [2604.10914](https://arxiv.org/abs/2604.10914) | math.CO, math.NT (Combinatorics / Number Theory)
+
+2. **Band-Basis Decomposition of Superfluid Weight in Magic-Angle Twisted Bilayer Graphene: Quantifying Geometric and Conventional Contributions**
+   arXiv: [2604.05994](https://arxiv.org/abs/2604.05994) | cond-mat.supr-con (Superconductivity)
+
+3. **Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result**
+   arXiv: [2604.04719](https://arxiv.org/abs/2604.04719) | cond-mat.supr-con (Superconductivity)
+
+4. **High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators**
+   arXiv: [2603.27613](https://arxiv.org/abs/2603.27613) | cs.MS (Mathematical Software)
+
+**🙏 Seeking arXiv Endorsement — If you or someone you know can help, please use the links below. Thank you!**
+
+- **physics.gen-ph** (General Physics): [Endorse here](https://arxiv.org/auth/endorse?x=BYI34G)
+- **math.NA** (Numerical Analysis): [Endorse here](https://arxiv.org/auth/endorse?x=LLBA8G)
+
+</div>
+
 <div id="tab-figshare" class="tab-content active">
   <h3 class="category-title">Fine-Structure Constant</h3>
   <ul class="pub-list">
@@ -235,9 +264,9 @@ layout: "single"
       </div>
     </li>
   </ul>
-</div></div>
+</div></div></div>
 
-*Last updated: 2026-04-21 22:01:54 (UTC)*
+*Last updated: 2026-04-21 22:03:20 (UTC)*
 
 <script>
 function switchTab(tab) {
