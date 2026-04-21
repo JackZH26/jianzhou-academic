@@ -43,7 +43,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:jackzhou.sci@gmail.com"
+      url: "mailto:jack@jzis.org"
     - name: github
       url: "https://github.com/JackZH26"
     - name: orcid
