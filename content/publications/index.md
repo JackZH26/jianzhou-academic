@@ -53,7 +53,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-04-17</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31991460</span> | 
-        <span class="pub-stats">👁️ 30 | 📥 3</span>
+        <span class="pub-stats">👁️ 31 | 📥 3</span>
       </div>
     </li>
     <li class="pub-item">
@@ -61,7 +61,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-04-08</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31967736</span> | 
-        <span class="pub-stats">👁️ 25 | 📥 2</span>
+        <span class="pub-stats">👁️ 27 | 📥 2</span>
       </div>
     </li>
     <li class="pub-item">
@@ -93,7 +93,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-23</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31839535</span> | 
-        <span class="pub-stats">👁️ 38 | 📥 12</span>
+        <span class="pub-stats">👁️ 39 | 📥 12</span>
       </div>
     </li>
     <li class="pub-item">
@@ -136,7 +136,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-28</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31879441</span> | 
-        <span class="pub-stats">👁️ 109 | 📥 106</span>
+        <span class="pub-stats">👁️ 112 | 📥 111</span>
       </div>
     </li>
     <li class="pub-item">
@@ -144,7 +144,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-20</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31817662</span> | 
-        <span class="pub-stats">👁️ 73 | 📥 8</span>
+        <span class="pub-stats">👁️ 74 | 📥 8</span>
       </div>
     </li>
     <li class="pub-item">
@@ -163,7 +163,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-04-20</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.32049069</span> | 
-        <span class="pub-stats">👁️ 18 | 📥 2</span>
+        <span class="pub-stats">👁️ 21 | 📥 2</span>
       </div>
     </li>
     <li class="pub-item">
@@ -175,11 +175,19 @@ layout: "single"
       </div>
     </li>
     <li class="pub-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31833382" target="_blank">Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost-Connes System</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-23</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31833382</span> | 
+        <span class="pub-stats">👁️ 30 | 📥 25</span>
+      </div>
+    </li>
+    <li class="pub-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/Band-basis_decomposition_of_superfluid_weight_in_magic-angle_twisted_bilayer_graphene_Quantifying_geometric_and_conventional_contributions/31820038" target="_blank">Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions</a></div>
       <div class="pub-meta">
         <span class="pub-date">2026-03-20</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31820038</span> | 
-        <span class="pub-stats">👁️ 53 | 📥 7</span>
+        <span class="pub-stats">👁️ 57 | 📥 7</span>
       </div>
     </li>
   </ul>
@@ -190,15 +198,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-04-06</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31941216</span> | 
-        <span class="pub-stats">👁️ 25 | 📥 3</span>
-      </div>
-    </li>
-    <li class="pub-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Quantum_Metric_as_a_Universal_Diagnostic_for_Superconducting_Critical_Temperatures_A_Two-Channel_Framework_Informed_by_the_Bost-Connes_System/31833382" target="_blank">Quantum Metric as a Universal Diagnostic for Superconducting Critical Temperatures: A Two-Channel Framework Informed by the Bost-Connes System</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-23</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31833382</span> | 
-        <span class="pub-stats">👁️ 30 | 📥 25</span>
+        <span class="pub-stats">👁️ 27 | 📥 3</span>
       </div>
     </li>
     <li class="pub-item">
@@ -206,7 +206,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-19</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31811689</span> | 
-        <span class="pub-stats">👁️ 68 | 📥 99</span>
+        <span class="pub-stats">👁️ 69 | 📥 99</span>
       </div>
     </li>
     <li class="pub-item">
@@ -222,7 +222,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-16</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31758985</span> | 
-        <span class="pub-stats">👁️ 34 | 📥 199</span>
+        <span class="pub-stats">👁️ 34 | 📥 200</span>
       </div>
     </li>
   </ul>
@@ -241,7 +241,7 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-29</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31796332</span> | 
-        <span class="pub-stats">👁️ 32 | 📥 19</span>
+        <span class="pub-stats">👁️ 32 | 📥 20</span>
       </div>
     </li>
   </ul>
@@ -260,13 +260,13 @@ layout: "single"
       <div class="pub-meta">
         <span class="pub-date">2026-03-31</span> | 
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31898347</span> | 
-        <span class="pub-stats">👁️ 62 | 📥 13</span>
+        <span class="pub-stats">👁️ 63 | 📥 13</span>
       </div>
     </li>
   </ul>
 </div></div></div>
 
-*Last updated: 2026-04-21 22:03:20 (UTC)*
+*Last updated: 2026-04-22 22:01:52 (UTC)*
 
 <script>
 function switchTab(tab) {
