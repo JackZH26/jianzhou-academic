@@ -55,7 +55,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31991460</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 33 views</span>
+        <span class="stat-item">👁️ 34 views</span>
         <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
@@ -89,7 +89,7 @@ layout: "single"
       </div>
       <div class="pub-stats">
         <span class="stat-item">👁️ 68 views</span>
-        <span class="stat-item">📥 22 downloads</span>
+        <span class="stat-item">📥 23 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -132,7 +132,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31839511</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 43 views</span>
+        <span class="stat-item">👁️ 45 views</span>
         <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
@@ -155,7 +155,7 @@ layout: "single"
       </div>
       <div class="pub-stats">
         <span class="stat-item">👁️ 56 views</span>
-        <span class="stat-item">📥 156 downloads</span>
+        <span class="stat-item">📥 162 downloads</span>
       </div>
     </li>
   </ul>
@@ -168,7 +168,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31981728</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 39 views</span>
+        <span class="stat-item">👁️ 40 views</span>
         <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
@@ -179,8 +179,8 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31879441</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 116 views</span>
-        <span class="stat-item">📥 134 downloads</span>
+        <span class="stat-item">👁️ 118 views</span>
+        <span class="stat-item">📥 153 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -190,7 +190,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31817662</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 77 views</span>
+        <span class="stat-item">👁️ 78 views</span>
         <span class="stat-item">📥 8 downloads</span>
       </div>
     </li>
@@ -248,33 +248,8 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31820038</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 62 views</span>
+        <span class="stat-item">👁️ 63 views</span>
         <span class="stat-item">📥 7 downloads</span>
-      </div>
-    </li>
-  </ul>
-  <h3 class="category-title">Membrane Model</h3>
-  <ul class="publication-list">
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Photons_as_Expanding_Spherical_Membranes_A_Geometric_Reinterpretation_of_Light_from_Newton_s_Prism_to_Einstein_s_Eclipse/31899475" target="_blank">Photons as Expanding Spherical Membranes: A Geometric Reinterpretation of Light from Newton's Prism to Einstein's Eclipse</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-31</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31899475</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 44 views</span>
-        <span class="stat-item">📥 1 downloads</span>
-      </div>
-    </li>
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Electrons_as_Spherical_Membranes_A_Unified_Geometric_Framework_for_Bound_and_Free_States/31898347" target="_blank">Electrons as Spherical Membranes: A Unified Geometric Framework for Bound and Free States</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-31</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31898347</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 64 views</span>
-        <span class="stat-item">📥 13 downloads</span>
       </div>
     </li>
   </ul>
@@ -289,6 +264,17 @@ layout: "single"
       <div class="pub-stats">
         <span class="stat-item">👁️ 31 views</span>
         <span class="stat-item">📥 3 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Stokes_Multipliers_of_x_2M_Anharmonic_Oscillators_Exact_Results_for_M_2--11/31796332" target="_blank">High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-29</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31796332</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 32 views</span>
+        <span class="stat-item">📥 20 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -321,7 +307,7 @@ layout: "single"
       </div>
       <div class="pub-stats">
         <span class="stat-item">👁️ 34 views</span>
-        <span class="stat-item">📥 201 downloads</span>
+        <span class="stat-item">📥 202 downloads</span>
       </div>
     </li>
   </ul>
@@ -334,26 +320,40 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.32088900</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 0 views</span>
+        <span class="stat-item">👁️ 2 views</span>
         <span class="stat-item">📥 0 downloads</span>
       </div>
     </li>
+  </ul>
+  <h3 class="category-title">Membrane Model</h3>
+  <ul class="publication-list">
     <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Stokes_Multipliers_of_x_2M_Anharmonic_Oscillators_Exact_Results_for_M_2--11/31796332" target="_blank">High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators</a></div>
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Photons_as_Expanding_Spherical_Membranes_A_Geometric_Reinterpretation_of_Light_from_Newton_s_Prism_to_Einstein_s_Eclipse/31899475" target="_blank">Photons as Expanding Spherical Membranes: A Geometric Reinterpretation of Light from Newton's Prism to Einstein's Eclipse</a></div>
       <div class="pub-meta">
-        <span class="pub-date">2026-03-29</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31796332</span>
+        <span class="pub-date">2026-03-31</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31899475</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 32 views</span>
-        <span class="stat-item">📥 20 downloads</span>
+        <span class="stat-item">👁️ 44 views</span>
+        <span class="stat-item">📥 1 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Electrons_as_Spherical_Membranes_A_Unified_Geometric_Framework_for_Bound_and_Free_States/31898347" target="_blank">Electrons as Spherical Membranes: A Unified Geometric Framework for Bound and Free States</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-31</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31898347</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 64 views</span>
+        <span class="stat-item">📥 13 downloads</span>
       </div>
     </li>
   </ul>
 </div></div>
 </div>
 
-*Last updated: 2026-04-24 22:01:03 (UTC)*
+*Last updated: 2026-04-25 22:02:29 (UTC)*
 
 <script>
 function switchTab(tab) {
