@@ -132,7 +132,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31839511</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 45 views</span>
+        <span class="stat-item">👁️ 49 views</span>
         <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
@@ -155,32 +155,7 @@ layout: "single"
       </div>
       <div class="pub-stats">
         <span class="stat-item">👁️ 56 views</span>
-        <span class="stat-item">📥 166 downloads</span>
-      </div>
-    </li>
-  </ul>
-  <h3 class="category-title">Riemann Hypothesis</h3>
-  <ul class="publication-list">
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Strong_Log-Concavity_of_the_Riemann-Jacobi_Kernel_Quantitative_Turan_Inequalities_Weil_Positivity_Evidence_and_a_Program_for_the_Riemann_Hypothesis/31879441" target="_blank">Strong Log-Concavity of the Riemann-Jacobi Kernel: Quantitative Turan Inequalities, Weil Positivity Evidence, and a Program for the Riemann Hypothesis</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-28</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31879441</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 126 views</span>
-        <span class="stat-item">📥 212 downloads</span>
-      </div>
-    </li>
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/dataset/Seven_Perspectives_on_the_Riemann_Hypothesis_A_Unified_Computational_Exploration_with_10_000_Zeros/31817662" target="_blank">Seven Perspectives on the Riemann Hypothesis: A Unified Computational Exploration with 10,000 Zeros</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-20</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31817662</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 82 views</span>
-        <span class="stat-item">📥 8 downloads</span>
+        <span class="stat-item">📥 169 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -195,6 +170,31 @@ layout: "single"
       </div>
     </li>
   </ul>
+  <h3 class="category-title">Riemann Hypothesis</h3>
+  <ul class="publication-list">
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Strong_Log-Concavity_of_the_Riemann-Jacobi_Kernel_Quantitative_Turan_Inequalities_Weil_Positivity_Evidence_and_a_Program_for_the_Riemann_Hypothesis/31879441" target="_blank">Strong Log-Concavity of the Riemann-Jacobi Kernel: Quantitative Turan Inequalities, Weil Positivity Evidence, and a Program for the Riemann Hypothesis</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-28</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31879441</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 128 views</span>
+        <span class="stat-item">📥 235 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/dataset/Seven_Perspectives_on_the_Riemann_Hypothesis_A_Unified_Computational_Exploration_with_10_000_Zeros/31817662" target="_blank">Seven Perspectives on the Riemann Hypothesis: A Unified Computational Exploration with 10,000 Zeros</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-20</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31817662</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 84 views</span>
+        <span class="stat-item">📥 8 downloads</span>
+      </div>
+    </li>
+  </ul>
   <h3 class="category-title">Superconductivity</h3>
   <ul class="publication-list">
     <li class="publication-item">
@@ -204,8 +204,8 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.32049069</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 22 views</span>
-        <span class="stat-item">📥 3 downloads</span>
+        <span class="stat-item">👁️ 23 views</span>
+        <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -228,6 +228,17 @@ layout: "single"
       <div class="pub-stats">
         <span class="stat-item">👁️ 32 views</span>
         <span class="stat-item">📥 26 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Band-basis_decomposition_of_superfluid_weight_in_magic-angle_twisted_bilayer_graphene_Quantifying_geometric_and_conventional_contributions/31820038" target="_blank">Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-20</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31820038</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 67 views</span>
+        <span class="stat-item">📥 7 downloads</span>
       </div>
     </li>
   </ul>
@@ -287,8 +298,8 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.32088900</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 9 views</span>
-        <span class="stat-item">📥 0 downloads</span>
+        <span class="stat-item">👁️ 10 views</span>
+        <span class="stat-item">📥 1 downloads</span>
       </div>
     </li>
     <li class="publication-item">
@@ -298,7 +309,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31981728</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 40 views</span>
+        <span class="stat-item">👁️ 43 views</span>
         <span class="stat-item">📥 4 downloads</span>
       </div>
     </li>
@@ -310,18 +321,7 @@ layout: "single"
       </div>
       <div class="pub-stats">
         <span class="stat-item">👁️ 32 views</span>
-        <span class="stat-item">📥 22 downloads</span>
-      </div>
-    </li>
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Band-basis_decomposition_of_superfluid_weight_in_magic-angle_twisted_bilayer_graphene_Quantifying_geometric_and_conventional_contributions/31820038" target="_blank">Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-20</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31820038</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 65 views</span>
-        <span class="stat-item">📥 7 downloads</span>
+        <span class="stat-item">📥 23 downloads</span>
       </div>
     </li>
   </ul>
@@ -345,7 +345,7 @@ layout: "single"
         <span class="pub-doi">DOI: 10.6084/m9.figshare.31898347</span>
       </div>
       <div class="pub-stats">
-        <span class="stat-item">👁️ 65 views</span>
+        <span class="stat-item">👁️ 66 views</span>
         <span class="stat-item">📥 13 downloads</span>
       </div>
     </li>
@@ -353,7 +353,7 @@ layout: "single"
 </div></div>
 </div>
 
-*Last updated: 2026-04-28 06:01:11 (UTC)*
+*Last updated: 2026-04-28 22:01:34 (UTC)*
 
 <script>
 function switchTab(tab) {
