@@ -147,17 +147,6 @@ layout: "single"
         <span class="stat-item">📥 3 downloads</span>
       </div>
     </li>
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/A_Zeta-Function_Reformulation_of_Wyler_s_Geometric_Formula_for_the_Fine-Structure_Constant/31771282" target="_blank">A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-03-17</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31771282</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 57 views</span>
-        <span class="stat-item">📥 175 downloads</span>
-      </div>
-    </li>
   </ul>
   <h3 class="category-title">Riemann Hypothesis</h3>
   <ul class="publication-list">
@@ -184,6 +173,17 @@ layout: "single"
       </div>
     </li>
     <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/A_Zeta-Function_Reformulation_of_Wyler_s_Geometric_Formula_for_the_Fine-Structure_Constant/31771282" target="_blank">A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-03-17</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31771282</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 57 views</span>
+        <span class="stat-item">📥 175 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/The_Arithmetic_of_Light_From_the_Riemann_Zeta_Function_to_a_Universal_Expression_of_Electromagnetic_Interaction/31744981" target="_blank">The Arithmetic of Light: From the Riemann Zeta Function to a Universal Expression of Electromagnetic Interaction</a></div>
       <div class="pub-meta">
         <span class="pub-date">2026-03-16</span> | 
@@ -197,6 +197,17 @@ layout: "single"
   </ul>
   <h3 class="category-title">Superconductivity</h3>
   <ul class="publication-list">
+    <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Gap_Symmetry_Is_Orbital_Electron_Membrane_Resonance_Picture_and_Validation_in_Multiorbital_Superconductors/32049069" target="_blank">Gap Symmetry Is Orbital: Electron Membrane Resonance Picture and Validation in Multiorbital Superconductors</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-04-20</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.32049069</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 25 views</span>
+        <span class="stat-item">📥 5 downloads</span>
+      </div>
+    </li>
     <li class="publication-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/Two-Channel_Allen-Dynes_Framework_for_Superconducting_Critical_Temperatures_Blind_Predictions_Across_Five_Orders_of_Magnitude_and_a_Quantum-Metric_No-Go_Result/31889344" target="_blank">Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result</a></div>
       <div class="pub-meta">
@@ -234,6 +245,17 @@ layout: "single"
   <h3 class="category-title">Number Theory</h3>
   <ul class="publication-list">
     <li class="publication-item">
+      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Cusp_Form_Dimensions_Lattice_Uniqueness_and_LP_Sharpness_for_Sphere_Packing_in_Dimensions_8_and_24/31941216" target="_blank">Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24</a></div>
+      <div class="pub-meta">
+        <span class="pub-date">2026-04-06</span> | 
+        <span class="pub-doi">DOI: 10.6084/m9.figshare.31941216</span>
+      </div>
+      <div class="pub-stats">
+        <span class="stat-item">👁️ 32 views</span>
+        <span class="stat-item">📥 3 downloads</span>
+      </div>
+    </li>
+    <li class="publication-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/Mahler_Measures_of_the_Bertin-Touafek_Family_and_Special_Values_of_L-Functions_New_Conjectures_from_a_Systematic_Numerical_Survey/31811689" target="_blank">Mahler Measures of the Bertin-Touafek Family and Special Values of L-Functions: New Conjectures from a Systematic Numerical Survey</a></div>
       <div class="pub-meta">
         <span class="pub-date">2026-03-19</span> | 
@@ -258,17 +280,6 @@ layout: "single"
   </ul>
   <h3 class="category-title">Membrane Model</h3>
   <ul class="publication-list">
-    <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Gap_Symmetry_Is_Orbital_Electron_Membrane_Resonance_Picture_and_Validation_in_Multiorbital_Superconductors/32049069" target="_blank">Gap Symmetry Is Orbital: Electron Membrane Resonance Picture and Validation in Multiorbital Superconductors</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-04-20</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.32049069</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 25 views</span>
-        <span class="stat-item">📥 5 downloads</span>
-      </div>
-    </li>
     <li class="publication-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/Photons_as_Expanding_Spherical_Membranes_A_Geometric_Reinterpretation_of_Light_from_Newton_s_Prism_to_Einstein_s_Eclipse/31899475" target="_blank">Photons as Expanding Spherical Membranes: A Geometric Reinterpretation of Light from Newton's Prism to Einstein's Eclipse</a></div>
       <div class="pub-meta">
@@ -317,17 +328,6 @@ layout: "single"
       </div>
     </li>
     <li class="publication-item">
-      <div class="pub-title"><a href="https://figshare.com/articles/preprint/Cusp_Form_Dimensions_Lattice_Uniqueness_and_LP_Sharpness_for_Sphere_Packing_in_Dimensions_8_and_24/31941216" target="_blank">Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24</a></div>
-      <div class="pub-meta">
-        <span class="pub-date">2026-04-06</span> | 
-        <span class="pub-doi">DOI: 10.6084/m9.figshare.31941216</span>
-      </div>
-      <div class="pub-stats">
-        <span class="stat-item">👁️ 32 views</span>
-        <span class="stat-item">📥 3 downloads</span>
-      </div>
-    </li>
-    <li class="publication-item">
       <div class="pub-title"><a href="https://figshare.com/articles/preprint/Stokes_Multipliers_of_x_2M_Anharmonic_Oscillators_Exact_Results_for_M_2--11/31796332" target="_blank">High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators</a></div>
       <div class="pub-meta">
         <span class="pub-date">2026-03-29</span> | 
@@ -353,7 +353,7 @@ layout: "single"
 </div></div>
 </div>
 
-*Last updated: 2026-04-30 22:01:09 (UTC)*
+*Last updated: 2026-04-30 22:02:08 (UTC)*
 
 <script>
 function switchTab(tab) {
