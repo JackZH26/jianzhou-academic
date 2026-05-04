@@ -55,7 +55,7 @@ layout: "single"
 
 - **[On the Arithmetic of Q(sqrt5) and the Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31967736)**  
   Published: 2026-04-08 | DOI: [10.6084/m9.figshare.31967736](https://doi.org/10.6084/m9.figshare.31967736)  
-  <span class="stats-badge">👁️ 36 views</span> <span class="stats-badge">📥 2 downloads</span>
+  <span class="stats-badge">👁️ 37 views</span> <span class="stats-badge">📥 2 downloads</span>
 
 - **[The Four-Layer Arithmetic Structure of the Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31891384)**  
   Published: 2026-04-04 | DOI: [10.6084/m9.figshare.31891384](https://doi.org/10.6084/m9.figshare.31891384)  
@@ -71,7 +71,7 @@ layout: "single"
 
 - **[α = cos²(π/5)/90: The Geometric Anatomy of the Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31839535)**  
   Published: 2026-03-23 | DOI: [10.6084/m9.figshare.31839535](https://doi.org/10.6084/m9.figshare.31839535)  
-  <span class="stats-badge">👁️ 41 views</span> <span class="stats-badge">📥 13 downloads</span>
+  <span class="stats-badge">👁️ 41 views</span> <span class="stats-badge">📥 14 downloads</span>
 
 - **[Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31839517)**  
   Published: 2026-03-23 | DOI: [10.6084/m9.figshare.31839517](https://doi.org/10.6084/m9.figshare.31839517)  
@@ -87,22 +87,22 @@ layout: "single"
 
 - **[A Zeta-Function Reformulation of Wyler's Geometric Formula for the Fine-Structure Constant](https://doi.org/10.6084/m9.figshare.31771282)**  
   Published: 2026-03-17 | DOI: [10.6084/m9.figshare.31771282](https://doi.org/10.6084/m9.figshare.31771282)  
-  <span class="stats-badge">👁️ 57 views</span> <span class="stats-badge">📥 185 downloads</span>
+  <span class="stats-badge">👁️ 57 views</span> <span class="stats-badge">📥 186 downloads</span>
 
 
 ### Riemann Hypothesis
 
 - **[An Architectural Framework for Formalizing Extended Riemann Hypotheses in Lean 4: The Case of ℚ(√5)](https://doi.org/10.6084/m9.figshare.31981728)**  
   Published: 2026-04-12 | DOI: [10.6084/m9.figshare.31981728](https://doi.org/10.6084/m9.figshare.31981728)  
-  <span class="stats-badge">👁️ 46 views</span> <span class="stats-badge">📥 4 downloads</span>
+  <span class="stats-badge">👁️ 47 views</span> <span class="stats-badge">📥 4 downloads</span>
 
 - **[Strong Log-Concavity of the Riemann-Jacobi Kernel: Quantitative Turan Inequalities, Weil Positivity Evidence, and a Program for the Riemann Hypothesis](https://doi.org/10.6084/m9.figshare.31879441)**  
   Published: 2026-03-28 | DOI: [10.6084/m9.figshare.31879441](https://doi.org/10.6084/m9.figshare.31879441)  
-  <span class="stats-badge">👁️ 142 views</span> <span class="stats-badge">📥 285 downloads</span>
+  <span class="stats-badge">👁️ 144 views</span> <span class="stats-badge">📥 288 downloads</span>
 
 - **[Seven Perspectives on the Riemann Hypothesis: A Unified Computational Exploration with 10,000 Zeros](https://doi.org/10.6084/m9.figshare.31817662)**  
   Published: 2026-03-20 | DOI: [10.6084/m9.figshare.31817662](https://doi.org/10.6084/m9.figshare.31817662)  
-  <span class="stats-badge">👁️ 100 views</span> <span class="stats-badge">📥 8 downloads</span>
+  <span class="stats-badge">👁️ 104 views</span> <span class="stats-badge">📥 8 downloads</span>
 
 - **[The Arithmetic of Light: From the Riemann Zeta Function to a Universal Expression of Electromagnetic Interaction](https://doi.org/10.6084/m9.figshare.31744981)**  
   Published: 2026-03-16 | DOI: [10.6084/m9.figshare.31744981](https://doi.org/10.6084/m9.figshare.31744981)  
@@ -113,7 +113,7 @@ layout: "single"
 
 - **[Gap Symmetry Is Orbital: Electron Membrane Resonance Picture and Validation in Multiorbital Superconductors](https://doi.org/10.6084/m9.figshare.32049069)**  
   Published: 2026-04-20 | DOI: [10.6084/m9.figshare.32049069](https://doi.org/10.6084/m9.figshare.32049069)  
-  <span class="stats-badge">👁️ 26 views</span> <span class="stats-badge">📥 11 downloads</span>
+  <span class="stats-badge">👁️ 26 views</span> <span class="stats-badge">📥 14 downloads</span>
 
 - **[Two-Channel Allen-Dynes Framework for Superconducting Critical Temperatures: Blind Predictions Across Five Orders of Magnitude and a Quantum-Metric No-Go Result](https://doi.org/10.6084/m9.figshare.31889344)**  
   Published: 2026-03-30 | DOI: [10.6084/m9.figshare.31889344](https://doi.org/10.6084/m9.figshare.31889344)  
@@ -128,7 +128,7 @@ layout: "single"
 
 - **[Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24](https://doi.org/10.6084/m9.figshare.31941216)**  
   Published: 2026-04-06 | DOI: [10.6084/m9.figshare.31941216](https://doi.org/10.6084/m9.figshare.31941216)  
-  <span class="stats-badge">👁️ 33 views</span> <span class="stats-badge">📥 3 downloads</span>
+  <span class="stats-badge">👁️ 34 views</span> <span class="stats-badge">📥 3 downloads</span>
 
 - **[High-Precision Computation and PSLQ Identification of Stokes Multipliers for Anharmonic Oscillators](https://doi.org/10.6084/m9.figshare.31796332)**  
   Published: 2026-03-29 | DOI: [10.6084/m9.figshare.31796332](https://doi.org/10.6084/m9.figshare.31796332)  
@@ -147,7 +147,7 @@ layout: "single"
 
 - **[Band-basis decomposition of superfluid weight in magic-angle twisted bilayer graphene: Quantifying geometric and conventional contributions](https://doi.org/10.6084/m9.figshare.31820038)**  
   Published: 2026-03-20 | DOI: [10.6084/m9.figshare.31820038](https://doi.org/10.6084/m9.figshare.31820038)  
-  <span class="stats-badge">👁️ 74 views</span> <span class="stats-badge">📥 7 downloads</span>
+  <span class="stats-badge">👁️ 75 views</span> <span class="stats-badge">📥 7 downloads</span>
 
 - **[The Prime Structure of Electromagnetic Constants](https://doi.org/10.6084/m9.figshare.31758985)**  
   Published: 2026-03-16 | DOI: [10.6084/m9.figshare.31758985](https://doi.org/10.6084/m9.figshare.31758985)  
@@ -166,12 +166,13 @@ layout: "single"
 
 - **[Electrons as Spherical Membranes: A Unified Geometric Framework for Bound and Free States](https://doi.org/10.6084/m9.figshare.31898347)**  
   Published: 2026-03-31 | DOI: [10.6084/m9.figshare.31898347](https://doi.org/10.6084/m9.figshare.31898347)  
-  <span class="stats-badge">👁️ 68 views</span> <span class="stats-badge">📥 13 downloads</span>
+  <span class="stats-badge">👁️ 69 views</span> <span class="stats-badge">📥 13 downloads</span>
+
 
 </div></div>
 </div>
 
-*Last updated: 2026-05-03 22:03:39 (UTC)*
+*Last updated: 2026-05-04 22:03:30 (UTC)*
 
 <script>
 function switchTab(tab) {
