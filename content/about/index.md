@@ -12,6 +12,8 @@ By day, I work as **Director of Product and Game Producer** at [XD.INC](https://
 
 ### Berlin Years (2017–2020)
 
+During this time, I worked as **Studio Director** at [Bigpoint GmbH](https://www.bigpoint.net) in Berlin. It was a period I thoroughly enjoyed — both the work and the life the city had to offer.
+
 
 ### Research Motivation
 
