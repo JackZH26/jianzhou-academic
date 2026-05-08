@@ -6,7 +6,7 @@ hasCJKLanguage: true
 
 params:
   env: production
-  description: "Independent Researcher in Mathematical Physics, Number Theory, and Superconductivity"
+  description: "Independent Researcher"
   author: "Jian Zhou"
   
   defaultTheme: auto
@@ -48,8 +48,6 @@ params:
       url: "mailto:jack@jzis.org"
     - name: github
       url: "https://github.com/JackZH26"
-    - name: orcid
-      url: "https://orcid.org/0009-0000-3536-9500"
     - name: x
       url: "https://x.com/jackzhj"
 
