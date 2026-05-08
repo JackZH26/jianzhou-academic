@@ -7,11 +7,9 @@ layout: "single"
 
 ### Superconductivity
 
-The central question: what sets the critical temperature ceiling in unconventional superconductors, and can it be raised to room temperature?
+I am currently studying condensed matter physics and superconductivity theory, while using AI tools to support independent research in this area.
 
-Current work combines first-principles theory, large-scale materials data, and algebraic methods to map the landscape of superconducting Tc across cuprates, nickelates, and hydrides. Two papers on arXiv (2025–2026) address the Allen-Dynes framework, quantum-metric contributions, and orbital symmetry constraints on the gap function.
-
-I am also building **[JZIS Superconductivity Library (sclib)](https://jzis.org/sclib)** — an open database aggregating experimental and computational data on superconducting materials, designed to accelerate both hypothesis testing and machine-learning approaches to Tc prediction.
+As part of this work, I am building **[JZIS Superconductivity Library (sclib)](https://jzis.org/sclib)** — an open database aggregating experimental and computational data on superconducting materials, designed to accelerate both hypothesis testing and machine-learning approaches to Tc prediction.
 
 ---
 
