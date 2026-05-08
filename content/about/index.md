@@ -24,7 +24,6 @@ I am the **Founder & Director** of [JZ Institute of Science (JZIS)](https://jzis
 ### Contact
 
 - **Email:** [jack@jzis.org](mailto:jack@jzis.org)
-- **ORCID:** [0009-0000-3536-9500](https://orcid.org/0009-0000-3536-9500)
 - **GitHub:** [JackZH26](https://github.com/JackZH26)
 - **Figshare:** [Jian Zhou](https://figshare.com/authors/Jian_Zhou/18636498)
 - **X (Twitter):** [@jackzhj](https://x.com/jackzhj)
