@@ -27,6 +27,5 @@ I am the **Founder & Director** of [JZ Institute of Science (JZIS)](https://jzis
 
 - **Email:** [jack@jzis.org](mailto:jack@jzis.org)
 - **GitHub:** [JackZH26](https://github.com/JackZH26)
-- **Figshare:** [Jian Zhou](https://figshare.com/authors/Jian_Zhou/18636498)
 - **X (Twitter):** [@jackzhj](https://x.com/jackzhj)
 - **JZIS:** [jzis.org](https://jzis.org)
